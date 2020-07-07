@@ -1,7 +1,5 @@
 import os
 
-print("test")
-
 for day in range(3,4*5+1):
     if day < 10:
         day = f"0{day}"
