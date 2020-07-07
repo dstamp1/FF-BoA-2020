@@ -62,5 +62,5 @@ for food in fav_foods:
 
 ## All the things we saw yesterday with loops we can do here too. We can use other control flow, we can use += to do an accumulator, and any other fun idea yoou can think of.
 
-## We'll work on the list methods lab now
+## We'll work on the list iteration lab now
 git clone https://github.com/upperlinecode/list-iteration-mini-lab-python.git

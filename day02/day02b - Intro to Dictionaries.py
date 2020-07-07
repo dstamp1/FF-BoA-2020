@@ -1,10 +1,11 @@
 ### Dictionaries ###
+# Let's start by touching a file called dictionary.py in our day 2 folder and open it
 #Let's say we need to store some information about a friend in our phone's contact appear
 #Maybe I would do this
-anoopa_contact = ['Anoopa','Singh','555-555-5555','Upperline',42]
+anoopa_contact = ['Anoopa','Singh','555-555-5555','Upperline', 42]
 
 ## How would I access Anoopa's phone number?
-## Chatstorm: Send as many answers as you can right away: What does the 42 stand for?
+## Chatstorm: Send as many answers as you can write right away: What does the 42 stand for?
 ## Let's take hands, what might become confusing about this data structure, especially if we added more information
 
 ## wouldn't it be better if there were some labels....
@@ -17,9 +18,6 @@ anoopa_contact = {
     'lucky_number':42
 }
 
-print(anoopa_contact)
-print(anoopa_contact['lucky_number'])
-
 # Chat Waterfall - Type but don't send yet: either what is a similarity or a difference with the synatax of lists
 
 # Dictionaries use {} to start and end
@@ -27,6 +25,8 @@ print(anoopa_contact['lucky_number'])
 # Dictionaries and lists are read with []
 
 ### Dictionary CRUD ####
+# Read
+print(anoopa_contact['lucky_number'])
 #Updating a key, value pair in a dictionary is similar to updating an item in a list
 anoopa_contact['lucky_number'] = 13
 ## And adding a brand new key, value pair is identical
