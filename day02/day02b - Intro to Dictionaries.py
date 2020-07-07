@@ -35,7 +35,7 @@ anoopa_contact['fav_color'] = 'blue'
 ##Looping through a dictionary
 # There are many different strategies to loop over a dictionary and each has its advantages. You can loop over the keys, the values, or the key, value pair.
 
-## This is just one way to do it and I encourage you to look up other ways depending on what challenged you come up againnst in the lab
+## This is just one way to do it and I encourage you to look up other ways depending on what challenges you come up against in the lab
 superheroes = {
   "jeff": "Static Shock",
   "taylor": "Jessica Jones",

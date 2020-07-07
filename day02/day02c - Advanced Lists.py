@@ -1,5 +1,5 @@
 ## Complex Data Structures ##
-# So we've looked at lists and we've looked at dictionaries, and so it seems like we should eb able to do both.
+# So we've looked at lists and we've looked at dictionaries, and so it seems like we should be able to do both.
 
 # For example, a list of dictionaries
 actors  = [

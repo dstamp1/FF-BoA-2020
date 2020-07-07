@@ -1,4 +1,6 @@
 ## Intro to Lists ##
+## mkdir a day02 folder
+
 #Let's start out by writing out some of our favorite foods in five separate variables.
 first_favorite_foods = 'Pizza'
 #take 90 seconds to write them out
@@ -9,7 +11,7 @@ first_favorite_foods = 'Pizza'
 # Code Refactor (rewrite your code to have the same functionality)
 
 # Let's create a *list*
-fav_foods = ["Pizza", "Ice Cream", "Okonomiyaki", "Tofu Pad Thai", "Chicken and Waffles"]
+fav_foods = ["Pizza", "Ice Cream", "tacos", "Tofu Pad Thai", "Chicken and Waffles"]
 
 ## Refactor your top five fav foods to make your list of fav_foods and print it
 
@@ -20,7 +22,7 @@ fav_foods = ["Pizza", "Ice Cream", "Okonomiyaki", "Tofu Pad Thai", "Chicken and 
 # print(fav_foods[2])
 
 # Chat Waterfall - Type but don't send yet: which food would be printed?
-# Ask a students with the wrong answer to explain their answer (it seems logical), have a student with the correct answer remind us that python is zero index, and have a third student correct the number in the print statement to access just the second favorite food.
+# Ask a student with the wrong answer to explain their answer (it seems logical), have a student with the correct answer remind us that python is zero index, and have a third student correct the number in the print statement to access just the second favorite food.
 
 #### CRUD ####
 # When we interact with a new data structure, there are four basic operations: Create, Read, Update, Delete. For a list, it would how to add a new item in the list, how to access an item in the list, how to change an item in the list, and how to remove an item from a list.
@@ -31,7 +33,7 @@ print(fav_foods[0])
 
 #Mini-challenge: Update one of your favorite foods in your list
 
-## The other CRUD operatioons are handled with list methods.
+## The other CRUD operations are handled with list methods.
 
 # I want to review the syntax of methods with a review example.
 # Let's say I have a string stored in a variable
@@ -41,7 +43,7 @@ name = "kevin"
 
 ### So to access a great list of list methods, google 'w3schools python list methods'
 
-## We'll work on the list methods lab now
+## We'll work on the list methods lab now for ~30 minutes
 git clone https://github.com/upperlinecode/list-methods-mini-lab-python.git
 
 ##### Quick direct teach on list iteration #####
