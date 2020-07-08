@@ -13,7 +13,7 @@ turn off autosave
 ## Let's examine these outputs and see if we can come up with a rule
 2 => 5
 3 => 10
-5 => 25
+5 => 26
 10 => 101
 
 #Once you have an idea of what the rule is, come up with a name. Chat Waterfall: Type but don't send yet; what would be a good name for this function?
@@ -21,7 +21,7 @@ turn off autosave
 def square_plus_one():
 
 ## So far, we've seen two types of python built-in functions
-argument.method_name => return_value
+argument.method_name() => return_value
 function_name(argument) => return_value
 
 ## Chat storm: write as many example as you can of the first example. Repeat for the second example
@@ -31,7 +31,7 @@ function_name(argument) => return_value
 
 #The general form is...
 def function_name(parameters, separated, by, commas):
-    business_logic
+    ## business_logic
     return return_value
 
 #Here's a functio we might define
@@ -47,6 +47,8 @@ def shout(name):
 
 # Let's actually use this function
 shout("alberlis")
+
+## let's put in an integer too and see the error, model by putting in slack channel
 
 #Chat waterfall: Type but don't send yet; what will print to the termina if we run this code?
 
