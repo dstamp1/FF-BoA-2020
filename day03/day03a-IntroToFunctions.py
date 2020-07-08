@@ -1,5 +1,10 @@
 Morning Session-- Intro to Functions
 turn off autosave
+# Opening Circle
+# random pairings again (I think tomorrow we can start with a whole group whip around rather than breakout rooms)
+#### Day03 - What your favorite question to ask someone you just met? #Give the prompt and let them think about it for a 1 minute
+# Have each student slack their answers to the #welcome channel after we all share out (build up a list)
+## Share the kokology question (queued up in Slack channel)
 
 # Introducing Functions
 
