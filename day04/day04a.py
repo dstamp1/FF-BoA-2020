@@ -63,3 +63,6 @@ git push
 # and we can check this worked by doing another git status
 
 ## Even though we will be collaborating today, we won't be using github during that process but we will be using it on our main project
+
+
+### Project Ideation ###
