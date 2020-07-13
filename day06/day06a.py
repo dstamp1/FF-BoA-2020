@@ -2,12 +2,20 @@ Morning Session
 
 ## Mourning Routine
 
-## Breakout rooms of 4 students and have each group...
+## Breakout rooms of 4 students and have each group answer
+# If you could only eat one meal for the rest of your life, what would it be?
 
 
 ## Intro to Object Orientation
 
 ## Why classes?
+# Let's imagine we were designing a social media website and we're in charge of designing the photos component.
+# Let's chatstorm some features of the photos you would keep track of.
+# Would you want to create variables for all of these features everytime a new photo was added?
+
+# Object Based Programming let's us define a blueprint that is sort of like a dictionary where we can store information about our object and use it as a blueprint. We also get additional functionality that we can write functions that only work on that blueprint. 
+
+#We'll start with the "nouns/adjectives" that live as attributes of the class and then we'll make our way to the "verbs" the methods that only work on our defined class.
 
 ## Initializing Instances
 #let's get started by mkdir day06 and touch classes.py. When you have that file open on your screen, green checkmark in the participants window.
