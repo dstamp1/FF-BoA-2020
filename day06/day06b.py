@@ -39,4 +39,4 @@ git clone https://github.com/upperlinecode/oo-banking-python.git
 ## At the end of mid-morning, let's have students to a Slack poll to get a sense of object orientation
 #1) I feel strong with object orientation and I want to try building out an object orientation game (would do the CL video game)
 #2) I feel good with object orientation and would like to practice more (would do amazon shopping cart)
-#3) I feel okay with object orientation and would like some more direct instruction with a teache (would do Advanced OO script with teacher in breakout room)
+#3) I feel okay with object orientation and would like some more direct instruction with a teacher (would do Advanced OO script with teacher in breakout room)

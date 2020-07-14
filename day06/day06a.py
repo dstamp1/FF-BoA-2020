@@ -1,11 +1,11 @@
 Morning Session
 
-## Mourning Routine
+## Morning Routine
 
 ## Breakout rooms of 4 students and have each group answer
 # If you could only eat one meal for the rest of your life, what would it be?
 
-
+c
 ## Intro to Object Orientation
 
 ## Why classes?
@@ -48,7 +48,7 @@ product2 = Product("Colored Pencils", 5.99)
 ## Let's take a moment and run our code. What do you notice? What do you wonder?
 
 ## Instance Variables
-#Let's add two more lines of code to our Product class definitioon.
+#Let's add two more lines of code to our Product class definition.
 self.name = this_product_name
 self.price = this_product_price
 
@@ -64,20 +64,20 @@ self.price = this_product_price
 # We'll set things up wherre the initial stock is set to zero when the product is instantiated.
 self.stock = 0
 
-# If we think of variables as nouns, things we keep track of, then we can think of functions as verrbs. Things we can do to the variables. If we focus on the stock instance varriable, what kind of actions (verbs) might you take? Let's chatstorm some ideas. #add stock, sell stock, etc.
+# If we think of variables as nouns, things we keep track of, then we can think of functions as verrbs. Things we can do to the variables. If we focus on the stock instance varriable, what kind of actions (verbs) might you take? Let's chatstorm some ideas for stock. #add stock, sell stock, etc.
 
 #Since this verb is specific only to the Product class, we will define the function inside of the class definition.
 
-def receive(self, quantity):
+def add_stock(self, quantity):
     self.stock += quantity
 
 #Let's try it out:
 # Initialize the first products
 product1 = Product("Pillow Pal", 24.99)
 # Receive 100 pillow pals
-product1.receive(100)
+product1.add_stock(100)
 # Confirm that we have 100 in stock, as expected.
-print(product1.stock
+print(product1.stock)
 
 
 #Now to sell product...
@@ -103,4 +103,7 @@ def sell(self, quantity):
 ### Lab Time -
 # git clone https://github.com/upperlinecode/user-class-python-oop.git
 # after some time....
-# git clone https://github.com/upperlinecode/neighborhood-objects-python-oop
+# git clone https://github.com/upperlinecode/neighborhood-objects-python-oop.git
+
+#students sharing code
+## students come back from breakout rooms and shre code they are proud of
