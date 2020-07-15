@@ -29,7 +29,7 @@ Morning Session
 ## Green check once you have your own copy of the basic HTML template.
 
 
-#~20 minute mark or so..
+#Hopefully we're at the 25 minute mark or so..lol
 
 ## PM Derek which path you'll be taking today
 ### Hackathon style and create a beautiful website to showcase at 2:15pm. Guidlines and stretch additions available in slack https://docs.google.com/document/d/1RYC36O1jE_xqNeBhSizA8ut6dAzlJlT_ZVtBga659ns/edit?usp=sharing
@@ -38,8 +38,8 @@ Morning Session
 
 ### Into to HTML ###
 #HTML is not a scripting language, it is a language that communicates structure and hierarchy within a document.
-# We can go to any website (like https://www.wikipedia.org/) and do a right click + inspect to see this code that web browsers read to genarate websites.
-# HTML provides the structure and CSS provides the visuals.
+# We can go to any website (like https://www.wikipedia.org/) and do a right click + inspect to see this code that web browsers read to generate websites.
+# HTML provides the structure and CSS provides the visual styling.
 
 # The core construction in HTML is the tag.
 
@@ -57,7 +57,7 @@ Morning Session
 ## First, let's practice nesting and placing image tags (you'll look up documentation on how to do this) in the Boroughs Nesting Lab. To copy it into glitch, we'll go to the glitch home page and copy the git link https://github.com/upperlinecode/NYC_Boroughs_Lab.git
 
 ## 15 minutes of play time here ##
-
+##################################################
 # Now that we have some content on the page, we can start to style what we see.
 
 # CSS gives us many ways to specify which elements we're going to apply style to. Let's start with one of the most specific ways, using an id.
