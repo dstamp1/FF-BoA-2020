@@ -1,11 +1,11 @@
 Morning Session
 
 ## Morning Routine
-# Stretch and share....
+# Stretch and share....which app on your phone do you use the most?
 
 ## Let's try 1 word proverbs ---
 # I'll rename students to include a number in their name. Students each say one word added to the proverb going in order. When the proverb feels right, a student can say "ommmm" and we'll start over
-
+ 
 
 ### Set Up ###
 # Let's imagine you're creating a social media website where users can sign up, post pictures, and like/comment these photos. Let's call it SlowstaBook.
@@ -126,7 +126,7 @@ def index():
 # and let's try it out. What does this error mean?
 
 # So we need to write a function to handle this.
-@app.route('/sendBreaktfast')
+@app.route('/sendBreakfast')
 def handle_breakfast():
   return "Breakfast will appear here"
 
@@ -165,7 +165,7 @@ return f"Hello, {nickname}! I hear you had {breakfast} for breakfast"
 
 ## The last key concept we want to go over now is what we might refer to as business logic. Business logic is what your web app will do between getting a request (GET or POST) and what it sends back to the user response.
 
-## Chatstorm: One example of business logic is when you enter a cuisine type in Yelp and it uses your current location to return a list of nearby relevent restaurants. What arre other examples can you think of?
+## Chatstorm: One example of business logic is when you enter a cuisine type in Yelp and it uses your current location to return a list of nearby relevent restaurants. What are other examples can you think of?
 
 ## Chat waterfall: So we just got the user's nickname and their breakfast (two strings)....what can we do with it? 
 
