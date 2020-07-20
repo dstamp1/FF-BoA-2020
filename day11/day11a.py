@@ -1,6 +1,6 @@
 ### Morning Routine
 # Stretch + Share
-## Question: If you could instantly learn how to do something new, what would it be and why?
+## Question: If you could move anywhere, where would you live?
 
 ### A game...we'll go to breakout rooms of 2 people and find an item you both have in common.
 
