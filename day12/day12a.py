@@ -8,7 +8,7 @@ Morning Session
 
 ### Buzzfeed Quizzes ###
 
-https://www.buzzfeed.com/
+https://www.buzzfeed.com/quizparty
 
 ######## Why do we even need a database #######
 
