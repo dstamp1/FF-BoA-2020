@@ -1,5 +1,9 @@
 Mid-Morning Session
 
+#### finish setting up the collection on MongoDB
+#Name the database 'events'
+
+
 ### How to connect a Flask App to a MongoDB database
 
 ## Let's get a copy of the community board app we saw this morning
@@ -36,7 +40,7 @@ MONGO_DB_PASSWORD = os.getenv("MONGO_DB_PASSWORD")
 # In the .env file, we would put
 MONGO_DBNAME =
 MONGO_DB_USERNAME =
-MONGO_DB_PASSWORD = 
+MONGO_DB_PASSWORD =
 
 
 ### Now we want to add new documents to our database

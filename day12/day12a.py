@@ -10,6 +10,14 @@ Morning Session
 
 https://www.buzzfeed.com/quizparty
 
+
+# Each group will share out 1 of the quizzes they took and what was fun about it.
+
+## You might think about how buzzfeed is able to make these quizzes...both the standalone quiz plus their new feature of quiz party.
+
+
+## Microfeedback - Students like seeing the progression from the command line jeopardy game through a version of their game on flask. Definitely a challenging/frustrating day since APIs was new for most students and it had been a while since we saw flask. Thank you to everyone for taking on the challenge and perserving with a minimum level of direct teaching from us. All of you were able to create something to be proud of in such a short amount of time and you are all in a great place to make something incredible during project mode.
+
 ######## Why do we even need a database #######
 
 # Let's say we wanted to build a site where we could post community events and important dates. I want to site to be able to show events + add events.
@@ -36,6 +44,9 @@ https://www.buzzfeed.com/quizparty
 ## For this first lab, we'll focus on reading information from a database.
 
 # Let's clone down the Stocks lab and start to look over
+
+# in our cloudshell, let's
+mkdir day12 && cd day12
 
 ## Stocks Lab
 git clone https://github.com/upperlinecode/stock-query-mongodb.git
@@ -69,6 +80,14 @@ collection.find({}).sort({ field: value })
 collection.find({}).sort([['field1',1],['field2',-1]])
 
 # You and your partner will work through the stocks lab
+#2 - Anjali, Charlotte
+#3 - Tashfia, Taylor
+#4 - Jaspreet, Kevin
+#5 - Alyssa, Patrick
+#6 - Alejandro, Angel, Prachi
+#8 - Eileen, Farhan
+#13 - Eric, Leo
+
 
 
 
