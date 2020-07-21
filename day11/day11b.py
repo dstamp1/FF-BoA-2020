@@ -13,9 +13,9 @@ Mid-Morning Session
 
 # Let's use a modified version of the Flask Template https://github.com/dstamp1/flask-template
 
-## First, let's look at this new file called "base.html". This file serves as a template that our other files will inherit. It includes to blocks: title and content. To fill in these blocks, we use the same syntax and then fill it in. You can see that in our index.html file. You'll also notice that our base.html includes Bootstrap.
+## First, let's look at this new file called "base.html". This file serves as a template that our other files will inherit. It includes two blocks: title and content. To fill in these blocks, we use the same syntax and then fill it in. You can see that in our index.html file. You'll also notice that our base.html includes Bootstrap.
 
-## Second, let's look at the session variable. To use the session variable, we need to import it from fllask and give the app a configuration attribute called secret_key. The flask app will use the secret_key to store information specific to the individual user accessing your website in a crypographically safe form. We can add to, modify, and remove that information just let it's a dictionarry. We do that with session[key]  where key is a string that we set. This information is stored in the end user's browser and is available to our flask app business logic. We also can display it on the page.
+## Second, let's look at the session variable. To use the session variable, we need to import it from flask and give the app a configuration attribute called secret_key. The flask app will use the secret_key to store information specific to the individual user accessing your website in a crypographically safe form. We can add to, modify, and remove that information just let it's a dictionary. We do that with session[key]  where key is a string that we set. This information is stored in the end user's browser and is available to our flask app business logic. We also can display it on the page.
 
 
 ### In your breakout rooms, 1) write a route called '/random' that display a random jeopardy clue using the Jservice API. As a stretch, begin to style it using a card.

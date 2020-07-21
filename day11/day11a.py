@@ -4,6 +4,12 @@
 
 ### A game...we'll go to breakout rooms of 2 people and find an item you both have in common.
 
+### Share out of items by each group
+
+### Midcourse survey --- Lots of learning and fun so far. We also wish we could be together in person. Looking forward to seeing how in these last two weeks we can apply what we've learned in Python + Web Design to create projects that are meaningful to us and show we all have a place in the world of computer science.
+
+### Agenda in the slack channel
+
 ### What is an API? ####
 
 ## Chats Storm: Send as many responses as you can...what kind of data/data sources have you seen integrated into a google search?
@@ -25,7 +31,7 @@ API_endpoint = 'https://jservice.io/api/clues'
 # To determine the query, we'll look over the documentation. Let's say we want to get back just the 1000 clues
 API_query = 'value=1000'
 #To build the URL, we'll use string concatenation
-API_url = API_endpoint+'?'+API_query
+API_url = API_endpoint+'?'+API_query + '&' + API_query_2
 
 # And finally, we can make the request
 r = requests.get(API_url)
@@ -38,7 +44,7 @@ data = r.json()
 
 # What we see is that we're getting back a list of dictionaries. Each dictionary represents a clue.
 
-### In your breakout rooms, explore the data object you get back and print information with labels for the first clue. You'll work with your partner to write a function that takes in a clue (as a dictionary) and prints the clue category title, clue value, question, and answer.
+### In your breakout rooms, explore the data object you get back and print information with labels for the first clue. You'll work with your partner to write a function that takes in a clue (as a dictionary) and prints the clue category title, clue value, and question.
 def display_clue(clue):
     clue_category = clue
     clue_value = clue
