@@ -10,6 +10,8 @@ Morning Session
 
 https://www.buzzfeed.com/quizparty
 
+## Breakout rooms of 4. Select a quiz and share the party link. Take the quiz and then look at the results.
+
 ######## Why do we even need a database #######
 
 # Let's say we wanted to build a site where we could post community events and important dates. I want to site to be able to show events + add events.
