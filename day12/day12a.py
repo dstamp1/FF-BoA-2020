@@ -10,6 +10,7 @@ Morning Session
 
 https://www.buzzfeed.com/quizparty
 
+<<<<<<< HEAD
 
 # Each group will share out 1 of the quizzes they took and what was fun about it.
 
@@ -17,6 +18,9 @@ https://www.buzzfeed.com/quizparty
 
 
 ## Microfeedback - Students like seeing the progression from the command line jeopardy game through a version of their game on flask. Definitely a challenging/frustrating day since APIs was new for most students and it had been a while since we saw flask. Thank you to everyone for taking on the challenge and perserving with a minimum level of direct teaching from us. All of you were able to create something to be proud of in such a short amount of time and you are all in a great place to make something incredible during project mode.
+=======
+## Breakout rooms of 4. Select a quiz and share the party link. Take the quiz and then look at the results.
+>>>>>>> 99905c65b2ef0d73b8833af9ecd945ffc576ce1c
 
 ######## Why do we even need a database #######
 
