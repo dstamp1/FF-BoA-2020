@@ -26,3 +26,8 @@
 ##### Scroll through the pages
 
 ## You'll make a template of this file.
+
+## And let's create a .env file and add the Mongo credentials
+MONGO_DBNAME = 'books'
+MONGO_DB_USERNAME = 'admin'
+MONGO_DB_PASSWORD = '3ASycAm71TKafd12'
